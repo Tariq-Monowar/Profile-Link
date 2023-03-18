@@ -24,7 +24,7 @@ To set up this application on your local machine, follow these steps:
 -Create a .env file in the server directory
 -Start the server-side and client-side concurrently: npm start
 
-##Feedback
+## Feedback
 We value your feedback and would love to hear from you! If you have any comments, suggestions, or issues regarding the Profile-Link application, please don't hesitate to reach out to us. You can contact us through any of the following channels:
 
 -Email: 2003monowar@gmail.com
