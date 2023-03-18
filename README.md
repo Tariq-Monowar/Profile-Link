@@ -1,6 +1,6 @@
 # Profile Link
 
-Welcome to Profile-Link, a awesome (MERN stack) web application that allows users to create and manage their profiles. With Profile-Link, users can sign up for an account, login to their profile, and update their profile information as needed. This application consists of both a server-side and client-side codebase.
+Welcome to Profile-Link, it's a awesome (MERN stack) web application that allows users to create and manage their profiles. With Profile-Link, users can sign up for an account, login to their profile, and update their profile information as needed. This application consists of both a server-side and client-side codebase.
 
 ## Features
 - User registration: Users can create a new account by providing their email address and a secure password. Once registered, users will receive a confirmation email to activate their account
