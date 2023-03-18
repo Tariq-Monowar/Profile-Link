@@ -5,18 +5,6 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const fs = require("fs");
 
-/**
- * GET: http://localhost:1000/api/users
- **/
-const getAlluser = async (req,res)=>{
-    try {
-        const allUser = await User.find();
-        res.status(200).json(allUser);
-    } catch (error) {
-        res.status(500).json(error.message);
-    }
-}
-
 
 /**
  * POST: http://localhost:1000/api
@@ -189,6 +177,7 @@ const updateUser = async (req,res)=>{
 }
 
 
+
 /**
  * POST: http://localhost:1000/api/login
  * @param : {
@@ -236,6 +225,7 @@ const loginUser = async(req,res)=>{
 
 
 
+
 /**
  * GET: http://localhost:1000/api/profile
  * @headers: { 
@@ -273,6 +263,21 @@ const userProfile = (req, res) => {
 }
 
 
+
+/**
+ * GET: http://localhost:1000/api/users
+ **/
+const getAlluser = async (req,res)=>{
+  try {
+      const allUser = await User.find();
+      res.status(200).json(allUser);
+  } catch (error) {
+      res.status(500).json(error.message);
+  }
+}
+
+
+
 /**
  * DELETE: http://localhost:1000/api/:id
  * @param {string} req.params.id - The ID of the user to be deleted
@@ -288,6 +293,6 @@ const deleteUser = async (req,res)=>{
     }
 }
 
+
+
 module.exports = { getAlluser, createUser, deleteUser, updateUser, loginUser, userProfile }
-
-
