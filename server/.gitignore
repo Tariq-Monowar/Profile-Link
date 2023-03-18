@@ -1,0 +1,17 @@
+# Logs
+logs/
+*.log
+
+
+# Dependencies
+node_modules/
+
+# Output
+build/
+dist/
+*.bundle.js
+*.map
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
