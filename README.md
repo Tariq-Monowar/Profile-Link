@@ -24,6 +24,6 @@ To set up this application on your local machine, follow these steps:
 -Create a .env file in the server directory
 -Start the server-side and client-side concurrently: npm start
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. If you have an idea for a feature or find a bug, feel free to open an issue or submit a pull request.
 
