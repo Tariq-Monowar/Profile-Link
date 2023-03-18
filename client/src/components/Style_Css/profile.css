@@ -1,0 +1,80 @@
+.profile-element {
+    height: 100vh;
+    background: linear-gradient(-150deg, #222222 15%, #373737 70%, #3c4859 94%);
+}
+
+.prifile-image-bg {}
+
+.prifile-image-bg-in {
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.prifile-image-outside {
+    width: 180px;
+    height: 180px;
+}
+
+.prifile-image {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.prifile-name-info {
+    margin-left: 50px;
+    color: #fff;
+    font-family: 'Philosopher', sans-serif;
+
+}
+
+.prifile-name-info h1 {
+    font-size: 40px;
+    margin-top: -10px;
+}
+
+.prifile-name-info p {
+    color: #ffffff52;
+    margin-top: -10px;
+}
+
+.log-btn {
+    border: none;
+    padding: 6px 14px;
+    margin: 3px 5px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: #555556;
+    color: #fff;
+    transition: .4s;
+}
+
+.prifile-name-info .profile-address {
+    color: #ffffff62;
+}
+
+.log-btn:hover {
+    transform: scale(1.1);
+    background-color: #57575c;
+}
+
+.update {
+    position: absolute;
+    margin-top: 163px;
+    margin-left: 168px;
+}
+
+.update-icon {
+    font-size: 25px;
+    color: #08a4ff;
+    transition: .4s;
+}
+
+.update-icon:hover {
+    transform: scale(1.2);
+    color: red;
+}

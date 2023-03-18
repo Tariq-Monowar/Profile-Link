@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/*---------------Animation Title--------------*/
+.waviy {
+  position: relative;
+  -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0, 0, 0, 0.274));
+  font-size: 40px;
+  margin: 30px 0px 0px 0px;
+}
+
+.waviy span {
+  font-family: 'Philosopher', sans-serif;
+  font-weight: bold;
+  position: relative;
+  display: inline-block;
+  animation: waviy 1.3s infinite;
+  animation-delay: calc(.1s * var(--i));
+  letter-spacing: 1px;
+  color: #161616;
+  margin-bottom: 0px;
+  font-size: 3rem;
+}
+@keyframes waviy {
+  0%,50%,100% {
+    transform: translateY(0)
+  }
+  20% {
+    transform: translateY(-30px)
+  }
+}
+.space{
+    padding-right: 10px;
+}

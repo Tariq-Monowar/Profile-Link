@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.container{
+  font-family: 'Philosopher', sans-serif;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 9vmin;
+}
+.form-group{
+  margin: 50px 0px;
+  display: flex;
+  flex-direction: row;
+}
+.form-control{
+  border: none;
+  border-bottom: 1px solid;
+  background-color: transparent;
+  color: #000f18;
+  width: 400px;
+  font-size: 18px;
+  font-family: 'Merienda', cursive;
+  padding-left: .4rem
+}
+.form-control-password{
+  margin-bottom: 50px;
+}
+.password-show{
+  font-size: 25px;
+  margin-left: -1.7rem;
+  margin-bottom: -3px;
+}
+.login-message{
+  margin-left: 10px;
+  text-align: center;
+  width: 100%;
+}
+.submit-btn{
+  color: #ffff;
+  background-color: #31556d;
+  padding: 0px 16px 0px 16px;
+  height: 40px;
+  font-size: 18px;
+  font-family: 'Courgette', cursive;
+  border-radius: 10px;
+  margin-left: 10px;
+  border: none;
+  box-shadow: rgba(39, 39, 39, 0.15) 0px 15px 25px, rgba(73, 73, 73, 0.05) 0px 5px 10px;
+  transition: .4s;
+}
+.submit-btn:hover{
+  transform: scale(1.1);
+  background-color: #0c2f44;
+}
+
+.loddingSet{
+  height: 50px;
+  margin-bottom: -60px;
+}
+.login-message{
+  margin-top: -8px;
+  color: red;
+  font-size: 20px;
+}
+
+
+@media screen and (max-width: 620px) {
+  .form-control{
+      width: 300px;
+  }
+  .container{
+    margin-top: 6rem;
+  }
+}

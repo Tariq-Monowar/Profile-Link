@@ -1,0 +1,43 @@
+.pageName{
+    font-size: 3rem;
+    margin-bottom: 17px;
+    /* width: 400px; */
+}
+
+.signin-container{
+    margin-top: -1rem;
+    font-family: 'Philosopher', sans-serif;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sig-form-group{
+    margin: 37px 0px;
+    display: flex;
+    flex-direction: row;
+}
+.form-control-image{
+    border: none;
+    background-color: transparent;
+    color: #000f18;
+    width: 400px;
+    font-size: 18px;
+    font-family: 'Merienda', cursive;
+    padding-left: .4rem
+}
+.sign-loddingSet{
+    /* height: 30px; */
+    margin-bottom: -10px;
+
+}
+.sign-error-message{
+    text-align: center;
+    color: red;
+    font-size: 17px;
+}
+.lodding-align{
+    margin-top: 10px;
+}
