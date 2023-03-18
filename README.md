@@ -35,4 +35,5 @@ We value your feedback and would love to hear from you! If you have any comments
 ##### LinkedIn: https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/
 ##### Facebook: https://www.facebook.com/profile.php?id=100080938471859
 
-Thank you for using Profile-Link!
+Thank you for taking the time
+You can feel free to contact me.
