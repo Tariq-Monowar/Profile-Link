@@ -27,8 +27,8 @@ To set up this application on your local machine, follow these steps:
 ##Feedback
 We value your feedback and would love to hear from you! If you have any comments, suggestions, or issues regarding the Profile-Link application, please don't hesitate to reach out to us. You can contact us through any of the following channels:
 
--Email: 2003monowar@gmail.com
--LinkedIn:s https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/
--Facebook:s https://www.facebook.com/profile.php?id=100080938471859
+-Email:2003monowar@gmail.com
+-LinkedIn:https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/
+-Facebook:https://www.facebook.com/profile.php?id=100080938471859
 
 Thank you for using Profile-Link!
