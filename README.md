@@ -7,10 +7,7 @@ Welcome to Profile-Link, it's a awesome (MERN stack) web application that allows
 - Login: Once registered, users can login to their profile with their email address and password.
 - Profile management: Users can view and update their profile information, including their name, profile picture, headline, and other personal details. Users can also upload a profile picture.
  
-![Screenshot 2023-03-18 223516s](https://user-images.githubusercontent.com/101199109/226120258-69836522-b38c-4acf-b595-57cfd6d64f25.png)
 ![Screenshot 2023-03-18 224158](https://user-images.githubusercontent.com/101199109/226120765-9089f11d-c7b4-461b-8515-a1b21444d6fd.png)
-
-
 
 ## Technologies
 -Server-side: Node.js, Express.js, MongoDB
