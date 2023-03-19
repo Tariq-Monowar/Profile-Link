@@ -29,7 +29,7 @@ To set up this application on your local machine, follow these steps:
 -Start the server-side and client-side concurrently: npm start
 
 ## Feedback
-We value your feedback and would love to hear from you! If you have any comments, suggestions, or issues regarding the Profile-Link application, please don't hesitate to reach out to us. You can contact us through any of the following channels:
+We value your feedback and would love to hear from you! If you have any comments, suggestions, or issues regarding the Profile-Link application, please don't hesitate to reach out to us. You can contact us through any of the following channels
 
 ##### Email: 2003monowar@gmail.com
 ##### LinkedIn: https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/
